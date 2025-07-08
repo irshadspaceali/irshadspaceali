@@ -22,7 +22,7 @@ Passionate about creative, ethical, and data-driven digital marketing.
 
 ## 📫 Connect with me
 - Email: irshadspaceali@gmail.com
-- LinkedIn: [Your LinkedIn](#)
+- LinkedIn: www.linkedin.com/in/irshadspaceali
 
 ## ⚡ Fun Fact
 Volleyball enthusiast | Love experimenting with new AI tools!
