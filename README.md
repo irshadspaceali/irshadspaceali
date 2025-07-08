@@ -11,9 +11,9 @@ Passionate about creative, ethical, and data-driven digital marketing.
 - AI Marketing, Visual Storytelling
 
 ## 🚀 Projects
-- [Biotique Social Media Calendar](#) — Month-long content strategy for Ayurveda and eco-conscious engagement.
-- [Nike AI Marketing Capstone](#) — Data-driven campaign for Gen Z brand awareness.
-- [Ethics in Digital Marketing](#) — Data privacy, transparency, and ethical best practices.
+- [Biotique Social Media Calendar](#) — Month-long content strategy for Ayurveda and eco-conscious engagement. https://drive.google.com/drive/folders/1vN1P9oa1PrZ5wxVd3E5VsNP6JvWyBrv4?usp=drive_link
+- [Nike AI Marketing Capstone](#) — Data-driven campaign for Gen Z brand awareness. https://drive.google.com/drive/folders/1s2DaXDrdG7RkYSi5kUWk_7rRbYTVs3mk?usp=drive_link
+- [Ethics in Digital Marketing](#) — Data privacy, transparency, and ethical best practices. https://drive.google.com/drive/folders/1JV9wT-SPqmnncHJdwTFmuJhkZaXfgvqE?usp=drive_link
 
 ## 🎓 Certifications
 - AI in Digital Marketing (Physics Wallah)
